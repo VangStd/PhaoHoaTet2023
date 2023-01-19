@@ -1,0 +1,9 @@
+body {
+    background: green;
+    overflow: inherit;
+    margin: 0;
+}
+
+canvas {
+    background: green;
+}
